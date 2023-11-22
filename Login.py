@@ -1,7 +1,7 @@
 import streamlit as st
 import base64
 
-st.set_page_config(page_title="Neural Network", page_icon=":bar_chart", layout="wide")
+st.set_page_config(page_title="Neural Network", page_icon=":bar_chart", layout="centered")
 
 brand_icon_path = "images/robot.jpeg"  # Replace with the correct relative path to your image
 benefits_image_path = "images/benefits.png"
